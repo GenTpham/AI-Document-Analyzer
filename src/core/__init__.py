@@ -1,0 +1,1 @@
+"""Package chứa các chức năng chính của ứng dụng"""

@@ -1,0 +1,19 @@
+# Web App Framework
+streamlit>=1.30.0
+
+# File Processing
+pymupdf>=1.23.0
+python-docx>=1.0.1
+PyPDF2>=3.0.0
+docx2txt>=0.8
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Utilities
+python-dotenv>=1.0.0
