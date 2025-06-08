@@ -84,8 +84,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ai-document-analyzer.git
-cd ai-document-analyzer
+git clone https://github.com/GenTpham/AI-Document-Analyzer.git
+cd AI-Document-Analyzer
 
 # Cài đặt dependencies
 pip install -r requirements.txt
@@ -216,7 +216,7 @@ Chúng tôi rất hoan nghênh mọi đóng góp!
 
 ### 🐛 Báo lỗi
 
-Nếu bạn tìm thấy bug, vui lòng [tạo issue](https://github.com/yourusername/ai-document-analyzer/issues) với:
+Nếu bạn tìm thấy bug, vui lòng [tạo issue](https://github.com/GenTpham/AI-Document-Analyzer/issues) với:
 - Mô tả chi tiết lỗi
 - Các bước tái hiện
 - Screenshot (nếu có)
@@ -233,7 +233,7 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 **Phạm Trúc**
 
 [![Email](https://img.shields.io/badge/Email-phamtruc120604@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:phamtruc120604@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GenTpham)
 
 </div>
 
