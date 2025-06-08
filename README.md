@@ -230,7 +230,7 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 <div align="center">
 
-**Phạm Trúc**
+**Phạm Trực**
 
 [![Email](https://img.shields.io/badge/Email-phamtruc120604@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:phamtruc120604@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GenTpham)
